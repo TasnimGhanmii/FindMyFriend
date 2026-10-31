@@ -144,13 +144,6 @@ Since Android 6, dangerous permissions must be granted by the user at runtime; t
 4. From a trusted phone, send the trigger message.
 5. Receive the location reply within a few seconds.
 
-## Known Limitations
-
-- Battery-optimization settings on some manufacturers (Xiaomi, Huawei, Samsung, ...) can kill background listeners; the app may need to be excluded from battery optimization.
-- Location accuracy depends on GPS signal and device settings; indoors it can be coarse.
-- SMS sending may incur carrier charges.
-- Google Play restricts SMS permissions, so distribution via the Play Store requires a permissions declaration or a different messaging approach.
-
 ## Roadmap
 
 - [ ] Allow-list management screen for trusted contacts
