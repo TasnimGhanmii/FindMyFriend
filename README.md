@@ -4,7 +4,7 @@ An Android app that lets a trusted contact retrieve your phone's location by sen
 
 Typical situations: a friend running late and not answering, a lost or misplaced phone, a family member who needs to be found quickly, or a meet-up in an unfamiliar area.
 
-> **Status:** Personal project · Early stage (see [Roadmap](#roadmap))
+> **Status:** Personal project ·  (see [Roadmap](#roadmap))
 
 ---
 
